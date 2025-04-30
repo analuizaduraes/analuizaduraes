@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ana 👋!
 
-<!--
-**analuizaduraes/analuizaduraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just getting started on my journey into **programming and computer science**.
+Currently studying **Information Systems**, I'm passionate about learning and exploring the world of tech, and I'm always eager to expand my skill set.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend** development, especially with **React** and **TypeScript**.
+- **Backend** development, with a particular interest in **Python**.
+- Building solid foundations in software engineering and web development.
+
+## 🎯 My Goals
+
+- Contribute to open-source projects as I grow.
+- Build useful and meaningful applications.
+- Connect with other developers and learn from the community.
+
+📫 [LinkedIn](https://www.linkedin.com/in/anadur4es/)
+
+Thanks for stopping by!
