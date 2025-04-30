@@ -6,9 +6,9 @@ Currently studying **Information Systems**, I'm passionate about learning and ex
 ## 🌱 What I'm Learning
 
 - **Frontend** development, especially with **React** and **TypeScript**.
-- Solid knowledge of HTML and CSS.
+- Solid knowledge of **HTML** and **CSS**.
 - **Backend** development, with a particular interest in **Python**.
-- Improving skills for developing crawlers and APIs.
+- Improving skills for developing **crawlers** and **APIs**.
 - Building solid foundations in software engineering and web development.
 
 ## 🎯 My Goals
